@@ -2,6 +2,7 @@
 
 The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
 You need to view the file in "Read Mode" to see the contents properly after downloading the same.
+The related scripts are also attached as tidygraph-master.ZIP with this repository.
 
 This package provides a tidy API for graph/network manipulation. While network data itself is not tidy, it can be envisioned as two tidy tables, one for node data and one for edge data. tidygraph provides a way to switch between the two tables and provides dplyr verbs for manipulating them. Furthermore it provides access to a lot of graph algorithms with return values that facilitate their use in a tidy workflow.
 
